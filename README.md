@@ -1,7 +1,4 @@
-<!-- 
-  ⚠️ قبل الرفع: استبدلي كل "esraa-abdelnasser" برابط/يوزر جيت هابك الحقيقي (3 أماكن محددة تحت بعلامة 👈).
-  دي الصورة اللي بتظهر فوق الـ README بتاعك في صفحة البروفايل على GitHub.
--->
+
 
 <div align="center">
 
@@ -17,15 +14,15 @@
 
 <a href="mailto:esraaabdalnasserzz@gmail.com"><img src="https://img.shields.io/badge/Email-esraaabdalnasserzz%40gmail.com-0a0e14?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=10161f"/></a>
 <a href="tel:+201222519040"><img src="https://img.shields.io/badge/Phone-01222519040-0a0e14?style=for-the-badge&logo=whatsapp&logoColor=5eead4&labelColor=10161f"/></a>
-<!-- 👈 حطي هنا رابط الـ GitHub / Portfolio / LinkedIn الحقيقي بتاعك -->
-<a href="https://github.com/esraa-abdelnasser"><img src="https://img.shields.io/badge/GitHub-Profile-0a0e14?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=10161f"/></a>
+<a href="https://github.com/esraa-abdo3"><img src="https://img.shields.io/badge/GitHub-esraa--abdo3-0a0e14?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=10161f"/></a>
+<!-- 👈 لسه محتاجة لينك البورتفوليو الحقيقي هنا لو عندك -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0a0e14?style=for-the-badge&logo=vercel&logoColor=fbbf24&labelColor=10161f"/></a>
 
 </div>
 
 <br/>
 
-## `// about.md`
+## ` about.md`
 
 I'm **Esraa AbdElNasser Khalil**, a Full Stack Developer working across the **MERN stack** (MongoDB, Express.js,
 React.js, Node.js) and **Next.js**. I hold a **B.Sc. in Computer Science** from the Faculty of Computer and
@@ -36,20 +33,11 @@ I currently work independently as a **freelance developer on Mustaqel and Upwork
 lifecycle — requirements, scoping, architecture, development, testing, and delivery. I've also worked as a
 **part-time programming instructor**, teaching programming fundamentals to beginners.
 
-```js
-const developer = {
-  name: "Esraa AbdElNasser Khalil",
-  role: "Full Stack MERN Developer",
-  stack: ["MongoDB", "Express", "React", "Node", "Next.js"],
-  focus: "APIs, real-time systems, AI-powered products",
-  location: "Port Said, Egypt",
-  status: "open to freelance & full-stack roles",
-};
-```
+
 
 <br/>
 
-## `// skills.json`
+## ` skills.json`
 
 **Front-end**
 <br/>
@@ -131,6 +119,29 @@ const developer = {
 
 ## `// projects/`
 
+### 🛍️ Bazaary — Featured Project
+*Full-stack multi-vendor bazaar marketplace platform*
+
+Bazaary turns traditional in-person bazaars into an organized online experience — organizers, brands, and
+visitors each get a dedicated space, from browsing and checkout to full platform administration.
+
+- **Customer:** browse active bazaars, search brands/products, wishlist, cart, secure checkout, and an
+  **AI Assistant** that helps visitors discover brands and products.
+- **Brand dashboard:** registration, profile management, product CRUD with image uploads, and tracking
+  products across bazaars.
+- **Bazaar dashboard:** manage bazaar info and participating brands, upload bazaar images, package management.
+- **Admin dashboard:** full platform control — statistics/analytics/reports, bazaar/brand/product/user
+  management, order tracking, and platform settings.
+- **Auth:** JWT-based authentication with protected routes and **role-based access** (Admin, Bazaar Owner,
+  Brand Owner, Customer).
+- Fully responsive across desktop, tablet, and mobile.
+
+**Stack:** `React.js` `Next.js` `Tailwind CSS` `Context API` `Node.js` `Express.js` `MongoDB` `JWT` `Multer` `ImageKit`
+
+🔗 [Live demo](https://bazaar-frontend-ten.vercel.app/) · [GitHub repo](https://github.com/esraa-abdo3/BAZAAR-FRONTEND)
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -197,18 +208,17 @@ const developer = {
 
 ## `// github-stats`
 
-<!-- 👈 استبدلي "esraa-abdelnasser" باليوزر بتاعك عشان الكروت دي تشتغل -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=esraa-abdelnasser&show_icons=true&theme=dark&bg_color=0a0e14&title_color=5eead4&icon_color=c4b5fd&text_color=e7edf3&border_color=1d2732&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-abdelnasser&layout=compact&theme=dark&bg_color=0a0e14&title_color=5eead4&text_color=e7edf3&border_color=1d2732&hide_border=false" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=esraa-abdo3&show_icons=true&theme=dark&bg_color=0a0e14&title_color=5eead4&icon_color=c4b5fd&text_color=e7edf3&border_color=1d2732&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-abdo3&layout=compact&theme=dark&bg_color=0a0e14&title_color=5eead4&text_color=e7edf3&border_color=1d2732&hide_border=false" width="34%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-abdelnasser&theme=dark&background=0a0e14&border=1d2732&stroke=1d2732&ring=5eead4&fire=fbbf24&currStreakLabel=5eead4" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-abdo3&theme=dark&background=0a0e14&border=1d2732&stroke=1d2732&ring=5eead4&fire=fbbf24&currStreakLabel=5eead4" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esraa-abdelnasser&theme=react-dark&bg_color=0a0e14&color=5eead4&line=5eead4&point=fbbf24&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=esraa-abdo3&theme=react-dark&bg_color=0a0e14&color=5eead4&line=5eead4&point=fbbf24&area=true&hide_border=true" width="90%"/>
 </div>
 
 <br/>
